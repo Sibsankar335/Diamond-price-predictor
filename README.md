@@ -95,4 +95,15 @@ linear regression, since price depends non-linearly on carat.
   large/expensive diamonds.
 - Re-running `model_training.py` regenerates `data/diamonds_test.csv`,
   which `model_evaluation.py` depends on — always run training before
+
+  # 💎 Diamond Price Predictor
+
+🔗 **Live Demo:** https://sibsankar335-diamond-price-predictor-app-pedcm.streamlit.app/
+
+An end-to-end ML project that predicts the market **price of a diamond**
+from its 4 Cs (carat, cut, color, clarity) and physical dimensions, using
+the classic **Diamonds dataset** (~54,000 real diamond sales records).
+
+**Test R²: 0.982** | **MAE: ~$280** | **MAPE: ~8%** (Gradient Boosting Regressor)
   evaluation.
+

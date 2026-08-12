@@ -98,7 +98,7 @@ linear regression, since price depends non-linearly on carat.
 
   # 💎 Diamond Price Predictor
 
-🔗 **Live Demo:** https://sibsankar335-diamond-price-predictor-app-pedcm.streamlit.app/
+🔗 **Live Demo:**[ https://sibsankar335-diamond-price-predictor-app-pedcm.streamlit.app/](https://sibsankar335-diamond-price-predictor-app-pe3dcm.streamlit.app/)
 
 An end-to-end ML project that predicts the market **price of a diamond**
 from its 4 Cs (carat, cut, color, clarity) and physical dimensions, using
